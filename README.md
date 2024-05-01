@@ -1,16 +1,13 @@
-### Hi there 👋
+### olá! 👋
 
-<!--
-**nicolasfvp/nicolasfvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Nicolas Ferreira**, Sou desenvolvedor FullStack e Atualmente curso Analise e Desenvolvimento de Sistemas pelo IFSC.
 
-Here are some ideas to get you started:
+º Segue algumas de minhas proeficiencias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalho na Programador.TV
+- 🌱 Tenho conhecimentos em:
+-C#
+-JS
+-Python
+-Java
+- 📫 Linkedin: https://www.linkedin.com/in/nicolas-ferreira-a9bb711b6/

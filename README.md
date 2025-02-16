@@ -4,7 +4,7 @@ Me chamo **Nicolas Ferreira**, Sou desenvolvedor FullStack e Atualmente curso An
 
 º Segue algumas de minhas proeficiencias:
 
-- 🔭 Atualmente trabalho na Programador.TV
+- 🔭 Atualmente trabalho na Way2 Technology
 - 🌱 Tenho conhecimentos em:
 -C#
 -JS

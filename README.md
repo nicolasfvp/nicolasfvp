@@ -1,13 +1,1 @@
-### olá! 👋
-
-Me chamo **Nicolas Ferreira**, Sou desenvolvedor FullStack e Atualmente curso Analise e Desenvolvimento de Sistemas pelo IFSC.
-
-º Segue algumas de minhas proeficiencias:
-
-- 🔭 Atualmente trabalho na Way2 Technology
-- 🌱 Tenho conhecimentos em:
--C#
--JS
--Python
--Java
-- 📫 Linkedin: https://www.linkedin.com/in/nicolas-ferreira-a9bb711b6/
+<img src="https://media1.tenor.com/m/boEdeIotYHUAAAAC/cat-meme.gif" alt="gif" width="800"/>
